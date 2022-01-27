@@ -198,10 +198,7 @@ http:
             - Mozilla/5.0
 ```
 
-
-
-
-
 ## References
 
-
+1) https://traefik.io/blog/using-private-plugins-in-traefik-proxy-2-5/
+2) https://doc.traefik.io/traefik-pilot/plugins/plugin-dev/
