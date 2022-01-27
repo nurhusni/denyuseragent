@@ -1,0 +1,11 @@
+displayName: KoinWorks Traefik Example Plugin
+type: middleware
+
+import: github.com/koinworks/traefik-example-plugin
+
+summary: 'Example on Howto write a plugin for traefik. Simple plugin, blocking a certain user agent'
+
+testData:
+  userAgent:
+    - Firefox
+    - Mozilla/5.0
